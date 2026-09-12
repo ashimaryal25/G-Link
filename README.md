@@ -103,7 +103,7 @@ Requirements:
 - npm
 
 ```bash
-git clone https://github.com/ashimaryal25-ops/G-Link.git
+git clone https://github.com/ashimaryal25/G-Link.git
 cd G-Link
 npm install
 npm run dev
@@ -163,4 +163,4 @@ Longer-term ideas such as calendar links, email integration, and cross-club coll
 
 ## Author
 
-Built by [Ashim Aryal](https://github.com/ashimaryal25-ops), a Computer Science and Mathematical Economics student exploring product engineering, applied AI, and tools for student organizations.
+Built by [Ashim Aryal](https://github.com/ashimaryal25), a Computer Science and Mathematical Economics student exploring product engineering, applied AI, and tools for student organizations.
